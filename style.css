@@ -54,3 +54,8 @@ textarea {
 .post a {
   color: #36cca2;
 }
+
+/* Details */
+.details p {
+  text-align: justify;
+}
