@@ -1,0 +1,30 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "High Time for Cyberlaw Enforcement and a Future of Work Strategy",
+            "body": "Huawei has events where it pulls together key analysts to focus on problems it thinks are critical to the future. At its last event, Huawei spoke about two areas that need considerable work. Let's talk this week about the need for centralized cyberlaw enforcement, and the need for a clear vision on the future of work. We'll close with the product of the week, a new 40inch curved monitor from Dell.",
+            "likes": 150
+        },
+        {
+            "id": 2,
+            "title": "Get No-Fuss File-Level Crypto With Fscrypt",
+            "body": "This piece is a demonstration of one means of setting up file-level encryption which is widely available for Linux desktop users. To offer a similar encryption scheme to as many users as possible, we'll walk through how to use fscrypt to create an encrypted filesystem. While simple, fscrypt offers multiple configuration modes.",
+            "likes": 200
+        },
+        {
+            "id": 3,
+            "title": "2021: The Year of Robotics and Artificial Intelligence",
+            "body": "While the pandemic has been painful, it has caused things to accelerate in several areas impressively rapidly. Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with the first product of the week in 2021, the Somnofy AI Sleep Monitor.",
+            "likes": 90
+        }
+    ],
+    "polls": [
+        {
+            "id": 1,
+            "question": "Dou you prever Angular or React",
+            "answerA":  "Angular",
+            "answerB": "React"
+        }
+    ]
+}
