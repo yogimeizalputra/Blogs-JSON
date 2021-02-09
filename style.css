@@ -59,3 +59,23 @@ textarea {
 .details p {
   text-align: justify;
 }
+
+/* Delete Button */
+.delete {
+  font-size: inherit;
+  color: white;
+  background: #36cca2;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+/* Back Button */
+.backBtn {
+  color: white;
+  text-decoration: none;
+  background: #36cca2;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 10px;
+}

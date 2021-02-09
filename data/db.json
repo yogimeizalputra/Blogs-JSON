@@ -19,30 +19,6 @@
       "likes": 90
     },
     {
-      "title": "",
-      "body": "",
-      "likes": 0,
-      "id": 4
-    },
-    {
-      "title": "",
-      "body": "",
-      "likes": 0,
-      "id": 5
-    },
-    {
-      "title": "",
-      "body": "",
-      "likes": 0,
-      "id": 6
-    },
-    {
-      "title": "",
-      "body": "",
-      "likes": 0,
-      "id": 7
-    },
-    {
       "title": "AdGuard Home: Another Brick in the Ad-Blocking Wall",
       "body": "Canonical's AdGuard Home Ubuntu Appliance is a new addition to the ranks of its appliances. With this offering, users can quickly implement a ready-made solution for blocking bothersome content at the network level on a home network. Doing so involves no more than downloading, installing, and booting the newly released lean Ubuntu image with the AdGuard Home service pre-installed and pre-configured.",
       "likes": 0,
