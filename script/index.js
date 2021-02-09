@@ -20,8 +20,6 @@ const renderPosts = async () => {
     })
 
     container.innerHTML = template;
-    
 }
-
 
 window.addEventListener('DOMContentLoaded', () => renderPosts());

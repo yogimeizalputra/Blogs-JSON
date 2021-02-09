@@ -1,3 +1,4 @@
+//javascript for datails.html
 
 const  id = new URLSearchParams(window.location.search).get('id');
 const container = document.querySelector('.details');
@@ -12,9 +13,7 @@ const renderDetails = async () => {
         <p>${post.body}</p>
     `;
 
-    container.innerHTML = template;
-    
+    container.innerHTML = template;    
 }
-
 
 window.addEventListener('DOMContentLoaded', () => renderDetails());
